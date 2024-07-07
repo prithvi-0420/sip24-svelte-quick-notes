@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  Hello World
+  <h1>Hello, my name is Prithvi Haware</h1> 
 </main>
 
 <style>
